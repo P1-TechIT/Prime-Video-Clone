@@ -50,12 +50,12 @@
 
 .carousel-control-prev span{
     border-radius: 20px;
-    background-image: url(/assets/prev.jpg);
+    background-image: url(./assets/prev.jpg);
 }
 
 .carousel-control-next span{
     border-radius: 20px;
-    background-image:url(/assets/next.jpg) ;
+    background-image:url(./assets/next.jpg) ;
 }
 
 .card{
